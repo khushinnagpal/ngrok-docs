@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+streamlit
+python-docx
+kagglehub
+pyngrok
